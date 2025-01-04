@@ -20,8 +20,6 @@ const links = ref([
     { link: '/about', name: 'About' },
     { link: '/features', name: 'Features' },
     { link: '/pricing', name: 'Pricing' },
-    { link: '/', name: 'FAQ' },
-    { link: '/', name: 'Blog' },
 ])
 </script>
 

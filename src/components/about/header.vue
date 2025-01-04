@@ -4,7 +4,7 @@
             <div class="w-[595px] h-[303px] ">
                 <h1 class="text-[18px] leading-8 ">{{ header.About }}</h1>
                 <h1 class="font-semibold text-[54px] leading-[74px]">{{ header.title }}</h1>
-                <p class="opacity-[70%] text-[16px] leading-7 text-justify">{{ header.text }}</p>
+                <p class="opacity-[70%] text-[16px] mt-8 leading-7 text-justify">{{ header.text }}</p>
             </div>
             <div>
                 <img src="../../../public/image/header-img.png" alt="">

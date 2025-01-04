@@ -73,8 +73,6 @@ const links = ref([
     { link: '/about', name: 'О нас' },
     { link: '/features', name: 'особенности' },
     { link: '/pricing', name: 'Цены' },
-    { link: '/', name: 'FAQ' },
-    { link: '/', name: 'Blog' },
 ])
 </script>
 
