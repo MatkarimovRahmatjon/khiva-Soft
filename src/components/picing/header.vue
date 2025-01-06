@@ -14,7 +14,7 @@
       </div>
     </div>
 
-    <div class="flex justify-between mb-32">
+    <div class="flex justify-between">
         <div class="my-16 relative" v-for="item in card">
           <img :src="item.ellipse" alt="" class="absolute">
         <div :class="`bg-[${item.bg}] text-[${item.textColor}]`" class="p-14 h-full rounded-xl w-full max-w-[406px]">
